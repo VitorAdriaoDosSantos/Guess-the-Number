@@ -1,0 +1,58 @@
+*{ 
+margin: 0;
+padding: 0;
+letter-spacing: 2px;
+font-family: Arial, Helvetica, sans-serifs;
+}
+
+
+body{
+background: url(aplicação-do-fundo-do-jogo-da-floresta-d-73706218.webp);
+
+}
+
+
+section{
+
+    background-color: rgba(215, 215, 255, 0.5);
+    width: 700px;
+    max-height: 700px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 3px 25px 25px 3px;
+    position: relative;
+    top: 20vh;
+    left: 20vw;
+    
+    
+
+}
+
+.clear{
+    margin-top: 60px;
+}
+
+/*style of text*/
+
+.palpites{
+    padding: 20px;
+    border-radius: 30px 30px 0px 0px;
+    background-color: rgb(180, 180, 180);
+    color: white;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ultpalpite{
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(180, 180, 180);
+    color: white;
+}
+.bxa{
+    background-color: rgb(180, 180, 180);
+    padding: 20px;
+    border-radius: 0px 0px 30px 30px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+}
